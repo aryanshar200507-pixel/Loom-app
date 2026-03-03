@@ -22,8 +22,8 @@
 
 ## 🌐 Live Demo
 
-> Frontend: `https://your-vercel-url.vercel.app`
-> Backend API: `https://your-render-url.onrender.com`
+> Frontend: `https://loom-app-delta.vercel.app`
+> Backend API: `https://loom-app-1lqt.onrender.com`
 
 ---
 
