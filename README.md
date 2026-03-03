@@ -104,8 +104,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/loom-jobtracker.git
-cd loom-jobtracker
+git clone https://github.com/aryanshar200507-pixel/Loom-app.git
+cd loom-app
 ```
 
 ### 2. Start PostgreSQL via Docker
