@@ -40,7 +40,7 @@ function Register() {
           <div className="bg-[#ffff] p-3 rounded-2xl shadow-lg mb-3 ring-4 ring-[#DBFE87]/20">
             <img src={logo} alt="Logo" className="w-8 h-8 object-cover" />
           </div>
-          <h1 className="text-2xl font-bold text-white">Loom</h1>
+          <h1 className="text-2xl font-bold text-white">LOOM</h1>
           <p className="text-white/40 text-sm mt-1">Create your account</p>
         </div>
 
